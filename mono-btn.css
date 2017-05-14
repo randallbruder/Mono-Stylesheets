@@ -1548,3 +1548,7 @@ width: auto;
 	width: 100% !important;
 	height: auto !important;
 }
+
+.tor_highlight_seed {
+	color: #0f0 !important;
+}
