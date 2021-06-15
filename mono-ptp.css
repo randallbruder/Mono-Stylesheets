@@ -1648,3 +1648,13 @@ div.pad ul, div.body ul, table.torrent_table blockquote>ul {
 .cover-movie-list__movie__tags {
     display: block;
 }
+
+#stats_hnrs:nth-of-type(1) {
+    width: 50px;
+}
+
+#stats_hnrs:nth-of-type(2) {
+    width: 50px;
+    left: 183px;
+    border-bottom: none;
+}
